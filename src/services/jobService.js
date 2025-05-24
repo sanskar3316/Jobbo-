@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://jobbo-ybl7.onrender.com';
+const API_BASE_URL = 'https://jobbo-ybl7.onrender.com/api';
 
 export const searchJobs = async (params) => {
   try {
