@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://localhost:5001/api';
+const API_BASE_URL = 'https://jobbo-tasr.vercel.app/';
 
 export const searchJobs = async (params) => {
   try {
