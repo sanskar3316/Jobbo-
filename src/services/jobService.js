@@ -1,4 +1,4 @@
-const API_BASE_URL = 'https://jobbo-tasr.vercel.app/';
+const API_BASE_URL = 'https://jobbo-ybl7.onrender.com';
 
 export const searchJobs = async (params) => {
   try {
